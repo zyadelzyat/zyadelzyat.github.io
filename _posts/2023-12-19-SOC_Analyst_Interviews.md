@@ -6,7 +6,7 @@ tags: [TAG]     # TAG names should always be lowercase
 
 ---
 
-# Interview Questions For SOC Analysts 
+# Interview Questions For SOC Analyst
 
 > "questions that someone might ask you or not even ask it as a junior SOC analyst , enjoy :)
 
