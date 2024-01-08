@@ -8,7 +8,7 @@ tags: [TAG]     # TAG names should always be lowercase
 
 # Interview Questions For SOC Analysts 
 
-> "I gathered many questions that someone might ask you or not even ask it as a junior analyst , enjoy :)
+> "I gathered many questions that someone might ask you or not even ask it as a junior SOC analyst , enjoy :)
 
 ![image](https://firebasestorage.googleapis.com/v0/b/avatars-2aed4.appspot.com/o/question-block-super-mario-bros-movie-1920x1080-v0-uvpf49pahfxa1.jpg?alt=media&token=bc20d977-bcfe-4ae3-8ac6-245a91cbc534)
 
