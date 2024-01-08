@@ -1,7 +1,11 @@
 # The Site Configuration
-
+toc: false
 # Import the theme
 theme: jekyll-theme-chirpy
+
+# Change the following value to '/PROJECT_NAME' ONLY IF your site type is GitHub Pages Project sites
+# and doesn't have a custom domain.
+baseurl: ""
 
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
@@ -9,40 +13,39 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+timezone: Egypt/Cairo 
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: 0xZyadElzyat # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: SOC Analyst Curious About Hunting & Playing With Malwares # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
 
-# Fill in the protocol & hostname for your site.
-# e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+# fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
+url: "https://zyadelzyat.github.io/"
 
 github:
-  username: github_username # change to your github username
+  username: zyadelzyat # change to your github username
 
 twitter:
-  username: twitter_username # change to your twitter username
+  username: zad606 # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: zyad elzyat
+  email: zyadlzyatsoc@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
+    - https://twitter.com/zad606 # change to your twitter homepage
+    - https://github.com/zyadelzyat # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/zyadelzyat/
 
 google_site_verification: # fill in to your verification string
 
@@ -70,10 +73,12 @@ theme_mode: # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn:
+img_cdn: "https://firebasestorage.googleapis.com/"
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: "v0/b/avatars-2aed4.appspot.com/o/37550e696bccb65db7d1fa09c9aa1f3f.jpg?alt=media&token=9bca38c6-af40-49c4-982a-0420ec984aee"
+
+
 
 # boolean type, the global switch for TOC in posts.
 toc: true
@@ -110,9 +115,6 @@ pwa:
   enabled: true # the option for PWA feature
 
 paginate: 10
-
-# The base URL of your site
-baseurl: ""
 
 # ------------ The following options are not recommended to be modified ------------------
 
@@ -180,6 +182,7 @@ exclude:
   - docs
   - tools
   - README.md
+  - CHANGELOG.md
   - LICENSE
   - rollup.config.js
   - package*.json
