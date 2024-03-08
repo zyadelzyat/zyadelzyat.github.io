@@ -4,7 +4,7 @@ date: 2024-3-9
 categories: [Malware Analysis , Reports]
 tags: [TAG] 
 ---
-# Intro 
+# Introduction
 
 > Meudsa Locker ransomware is a sophisticated malware strain known for its devastating impact on systems and data security. In this comprehensive report, we delve into various aspects of Meudsa Locker, including its behavior, code structure, and indicators of compromise (IOCs). The report is structured into five main sections: Malware Basic Static Analysis, Malware Basic Dynamic Analysis, Static Code Analysis, Basic Yara Rule, and IOCs. Through a meticulous examination of these components, we aim to provide valuable insights into the workings of Meudsa Locker, enabling security professionals to better understand and defend against this malicious threat.
 >
