@@ -1,5 +1,5 @@
 ---
-title: MedusaLocker_Ransomware_Analysis_Report_Fix
+title: MedusaLocker_Ransomware
 date: 2024-3-9
 categories: [Malware Analysis , Reports]
 tags: [TAG] 
