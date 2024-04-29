@@ -34,25 +34,24 @@ tags: [TAG]     # TAG names should always be lowercase
 12. What is the difference between an incident and a problem?
 13. A colleague has just finished deploying a new web server. What steps would you take to secure it after the initial install?
 14. What is defense-in-depth?
-15. What does a 'layered' approach to security mean?
-16. Can you describe the difference between UDP and TCP? (if so what is a TCP handshake?)
-17. Can you explain how Kerberos works?
-18. What is MAC/IP address?
-19. What is the purpose of sub-netting and why is it used?
-20. How does a computer tell the difference between a Word document and a music file? Is the process the same for both Windows and Unix?
-21. How would you go about terminating a non-responsive program in a Windows environment, and is this process the same for Unix?
-22. What is a LAN / MAN / WAN / WLAN / WWAN / VLAN?
-23. How can you detect/prevent SQL injection?
-24. What is  vulnerability scanners and how to identify them.
-25. What's the difference between XSS and XSRF?
-26. XSS and why it’s bad, how would you rank its severity?
-27. What are the OWASP top 10?
-28. Difference between IDS and IPS.
-29. OSI model and how it pertains to this job.
-30. What are indicators of compromise?
-31. What is a SIEM and SOAR?
-32. Describe an incident response process.
-33. After an incident, why is it important to do a lessons learned?
+15. Can you describe the difference between UDP and TCP? (if so what is a TCP handshake?)
+16. Can you explain how Kerberos works?
+17. What is MAC/IP address?
+18. What is the purpose of sub-netting and why is it used?
+19. How does a computer tell the difference between a Word document and a music file? Is the process the same for both Windows and Unix?
+20. How would you go about terminating a non-responsive program in a Windows environment, and is this process the same for Unix?
+21. What is a LAN / MAN / WAN / WLAN / WWAN / VLAN?
+22. How can you detect/prevent SQL injection?
+23. What is  vulnerability scanners and how to identify them.
+24. What's the difference between XSS and XSRF?
+25. XSS and why it’s bad, how would you rank its severity?
+26. What are the OWASP top 10?
+27. Difference between IDS and IPS.
+28. OSI model and how it pertains to this job.
+29. What are indicators of compromise?
+30. What is a SIEM and SOAR?
+31. Describe an incident response process.
+32. After an incident, why is it important to do a lessons learned?
 34. What's the purpose of tier 1 analysts?
 35. What is network segmentation and how is it helpful?
 36. What is the difference between a security event and a security incident?
