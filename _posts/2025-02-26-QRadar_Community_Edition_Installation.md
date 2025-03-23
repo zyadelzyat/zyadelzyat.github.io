@@ -11,7 +11,7 @@ IBM QRadar Community Edition (CE) is a powerful SIEM tool for threat detection, 
 
 ## Step 1: Download the Qradar Community Edition ISO
 
-1. Visit the official IBM QRadar Community Edition page:
+1. Go To the official IBM QRadar Community Edition page:
     
     - https://www.ibm.com/community/101/qradar/ce/
 
