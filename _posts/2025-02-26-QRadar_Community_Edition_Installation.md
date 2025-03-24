@@ -29,7 +29,7 @@ IBM QRadar Community Edition (CE) is a powerful SIEM tool for threat detection, 
 
 1. **CPU Configuration:**
     
-    - Minimum: 4 cores
+    - Minimum: 4 CPU cores
         
     - Recommended: More for better performance
 
