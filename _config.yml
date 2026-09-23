@@ -1,0 +1,12 @@
+title: Zyad Waleed Elzyat
+description: Detection engineering, malware analysis, and security telemetry research.
+theme: jekyll-theme-hacker
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+author: Zyad Waleed Elzyat
+url: https://zyadelzyat.github.io
+lang: en
+permalink: /writing/:title/
+show_downloads: false
+
