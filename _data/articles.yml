@@ -1,0 +1,54 @@
+- date: "Aug 30, 2026"
+  category: Malware analysis
+  title: Reverse Engineering the Auto-Color Linux Backdoor
+  description: Static and dynamic analysis of Auto-Color’s execution flow, C2 communication, and LD_PRELOAD rootkit.
+  url: https://medium.com/@0xzyadelzyat/reverse-engineering-the-auto-color-linux-backdoor-db2aecbd2887
+
+- date: "Aug 14, 2026"
+  category: Detection engineering
+  title: "A KQL Query Is Not a Detection: What My Microsoft Sentinel Lab Actually Validated"
+  description: Following Azure and Entra telemetry from collection to KQL, with a clear account of what still needed validation.
+  url: https://medium.com/@0xzyadelzyat/i-built-an-azure-detection-engineering-lab-with-microsoft-sentinel-79bf6b5e6635
+
+- date: "Jul 30, 2026"
+  category: Security telemetry
+  title: "Log Parsing for Security Engineers: Building the Foundation for Reliable Threat Detection"
+  description: Parsing, normalizing, and validating security logs for reliable SIEM detections.
+  url: https://medium.com/@0xzyadelzyat/log-parsing-for-security-engineers-building-the-foundation-for-reliable-threat-detection-c34e71b01b9a
+
+- date: "Oct 18, 2025"
+  category: Malware analysis
+  title: "PureLogs Stealer: Complete Malware Analysis & CTF Walkthrough"
+  description: An analysis and CTF walkthrough of the PureLogs stealer.
+  url: https://medium.com/@0xzyadelzyat/purelogs-stealer-complete-malware-analysis-ctf-walkthrough-83e41e7c6efd
+
+- date: "Sep 12, 2025"
+  category: Malware analysis
+  title: "XWorm Malware Analysis: SOC & IR Perspective on Persistence, C2, and Anti-Analysis Tactics"
+  description: XWorm persistence, command and control, and anti-analysis through a SOC and IR lens.
+  url: https://medium.com/@0xzyadelzyat/xworm-malware-analysis-soc-ir-perspective-on-persistence-c2-and-anti-analysis-tactics-ed41d335b2ce
+
+- date: "Jun 2, 2025"
+  category: Detection engineering
+  title: "How to Build a WAF Detection System: ModSecurity + NGINX + ELK Monitoring"
+  description: Building a practical WAF monitoring and detection pipeline.
+  url: https://medium.com/@0xzyadelzyat/how-to-build-a-waf-detection-system-modsecurity-nginx-elk-monitoring-detection-engineering-9ebfc544b4ec
+
+- date: "May 4, 2025"
+  category: SOC operations
+  title: "Email Analysis for SOC Analysts: Identifying, Investigating, and Preventing Phishing Threats"
+  description: A practical approach to investigating phishing emails.
+  url: https://medium.com/@0xzyadelzyat/email-analysis-for-soc-analysts-identifying-investigating-and-preventing-phishing-threats-7cb176bfb7da
+
+- date: "Jun 13, 2024"
+  category: Malware analysis
+  title: "Inside LATRODECTUS: A Dive into Malware Tactics and Mitigation"
+  description: Malware tactics and mitigation notes on LATRODECTUS.
+  url: https://medium.com/@0xzyadelzyat/inside-latrodectus-a-dive-into-malware-tactics-and-mitigation-5629cdb109ea
+
+- date: "Mar 26, 2024"
+  category: Malware analysis
+  title: "Comprehensive Analysis of EMOTET Malware: Part 1"
+  description: A technical analysis of EMOTET.
+  url: https://medium.com/@0xzyadelzyat/comprehensive-analysis-of-emotet-malware-part-1-by-zyad-elzyat-35d5cf33a3c0
+
