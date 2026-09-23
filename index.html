@@ -1,0 +1,64 @@
+---
+layout: default
+title: Zyad Waleed Elzyat
+---
+
+<nav class="site-nav">
+  <a href="#writing">Writing</a>
+  <a href="#about">About</a>
+  <a href="#experience">Experience</a>
+  <a href="#certifications">Certifications</a>
+  <a href="#connect">Connect</a>
+</nav>
+
+<p class="intro">I work where security telemetry becomes useful detection: onboarding log sources, parsing and validating events, investigating threats, and studying how malware behaves. These are my notes and research from that work.</p>
+
+<section id="writing">
+  <h2>Writing</h2>
+
+  {% for post in site.posts %}
+  <article class="post-card">
+    <div class="post-meta">{{ post.date | date: "%b %-d, %Y" }} / {{ post.category | default: "Research" }}</div>
+    <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+    {% if post.description %}<p>{{ post.description }}</p>{% endif %}
+  </article>
+  {% endfor %}
+
+  {% for post in site.data.articles %}
+  <article class="post-card">
+    <div class="post-meta">{{ post.date }} / {{ post.category }}</div>
+    <h3><a href="{{ post.url }}" target="_blank" rel="noopener noreferrer">{{ post.title }} ↗</a></h3>
+    <p>{{ post.description }}</p>
+  </article>
+  {% endfor %}
+</section>
+
+<section id="about">
+  <h2>About</h2>
+  <p>I’m a cybersecurity engineer based in Cairo, Egypt. My work spans SIEM deployment, log onboarding and normalization, parser engineering, detection validation, and incident investigation. I also publish hands-on research about malware behavior and reverse engineering.</p>
+  <blockquote><strong>Current focus:</strong> Detection engineering, Microsoft Sentinel and Azure security telemetry, Linux malware analysis, and reverse engineering.</blockquote>
+</section>
+
+<section id="experience">
+  <h2>Experience</h2>
+  <div class="role"><span>Apr 2026 – Present</span><div><strong>Cyber Security Deployment Engineer</strong> · Coordinates<p>FortiSIEM parsers and event recognizers, telemetry onboarding, ingestion troubleshooting, and Sentinel detection validation.</p></div></div>
+  <div class="role"><span>Jul 2025 – Apr 2026</span><div><strong>SOC Analyst</strong> · ZeroSploit MEA<p>Incident investigation, threat hunting, malware analysis, phishing analysis, and response documentation.</p></div></div>
+  <div class="role"><span>Sep 2024 – Jul 2025</span><div><strong>SOC Engineer</strong> · ZeroSploit MEA<p>ELK and QRadar deployments, SOC automation, and SIEM troubleshooting.</p></div></div>
+  <div class="role"><span>Jan 2025 – Apr 2026</span><div><strong>Cyber Security Trainer</strong> · National Telecommunication Institute</div></div>
+  <div class="role"><span>Nov 2024 – Apr 2026</span><div><strong>Cyber Security Instructor</strong> · WE INNOVATE</div></div>
+</section>
+
+<section id="certifications">
+  <h2>Certifications</h2>
+  <ul>
+    <li>Microsoft Certified: Azure Fundamentals (AZ-900) · 2026</li>
+    <li>AWS Certified Cloud Practitioner · 2026</li>
+    <li>HTB Certified Defensive Security Analyst (CDSA) · 2026</li>
+  </ul>
+</section>
+
+<section id="connect">
+  <h2>Connect</h2>
+  <p><a href="https://www.linkedin.com/in/zyadelzyat/" target="_blank" rel="noopener noreferrer">LinkedIn ↗</a> · <a href="https://medium.com/@0xzyadelzyat" target="_blank" rel="noopener noreferrer">Medium ↗</a></p>
+</section>
+
